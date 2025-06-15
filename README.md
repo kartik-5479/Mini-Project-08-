@@ -1,1 +1,2 @@
-# Mini-Project-08-
+# Mini-Project-08
+*Explore "Assignment - R Programming.pdf" for full assignment*
